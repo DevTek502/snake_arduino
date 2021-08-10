@@ -51,8 +51,8 @@ void configurarMatriz() {
 void configurarControl() {
     attachInterrupt(digitalPinToInterrupt(21), pulsacionArriba, HIGH);
     attachInterrupt(digitalPinToInterrupt(20), pulsacionAbajo, HIGH);
-    attachInterrupt(digitalPinToInterrupt(19), pulsacionIzquieda, HIGH);
-    attachInterrupt(digitalPinToInterrupt(18), pulsacionDerecha, HIGH);
+    attachInterrupt(digitalPinToInterrupt(18), pulsacionIzquieda, HIGH);
+    attachInterrupt(digitalPinToInterrupt(19), pulsacionDerecha, HIGH);
 }
 
 // interrupciones para el control (Joystick)
