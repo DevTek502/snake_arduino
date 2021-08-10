@@ -7,6 +7,10 @@
 
 En esta ocacion te hemos traido un ejemplo de la implementacion de un snake el cual esta hecho en arduino, del cual te hemos dejado el codigo fuente que hemos utilizado en nuestro video en el Canal de Youtube [DevTek](https://www.youtube.com/channel/UClawZxxlqfXzPetVvUnMb4g), para que lo puedas utilizar e implementar en tus proyectos.
 
+<p>
+<img src="src/animacion.gif" width=200px>
+</p>
+
 
 --- 
 
