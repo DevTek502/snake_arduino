@@ -78,7 +78,7 @@ Opcional:
 
 Aca te hemos dejado un video en nuestro canal oficial de Youtube, en donde te mostramos todo el armado de este juego simulado, utilizando proteus y arduino.
 
-[Video]()
+[Video](https://youtu.be/uk4EN-eg_kE)
 
 ---
 
